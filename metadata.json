@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Lumina AI Assistant",
+  "description": "A cutting-edge AI assistant featuring real-time voice conversation, image generation, and intelligent search grounding powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
